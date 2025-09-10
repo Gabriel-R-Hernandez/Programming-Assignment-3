@@ -21,6 +21,7 @@ PROBLEM 1
 - Saved the file as Hernandez_Pandas-P1.py in another cell
 
 PROBLEM 2
+
   For Problem 2, I used the same cars DataFrame. I first showed the first five rows but only kept the odd-numbered columns. After that, I searched for the row with the model Mazda RX4 and checked how many cylinders the Camaro Z28 had. Lastly, I looked at the cylinders and gear types for Mazda RX4 Wag, Ford Pantera L, and Honda Civic.
 
 - Similar to the first problem, i imported PANDA library as well.
